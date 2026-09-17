@@ -1,4 +1,4 @@
-# Smart Service Request Management System
+# Spring boot app
 
 Spring Boot + MySQL + JPA/Hibernate + Thymeleaf + REST API + Postman.
 
